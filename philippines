@@ -1,0 +1,81 @@
+<!doctype html!>
+<html>
+    <head>
+        <title>Philippines</title>
+        <link rel="stylesheet" href="css/style.css" type="text/css"/>
+      
+        
+    </head>
+    <!--End of header beginning of nav bar--> 
+    
+    <body>
+        <nav class="main-nav">
+            <ul>
+                <li><a href=index.html>Home</a></li>
+                 <li><a href=johannesburg.html>Johannesburg</a></li>
+                  <li><a href=philippines.html>Phillipines</a></li>
+                 <li><a href=vegas.html>Las Vegas</a></li>
+                 </ul>
+            </nav>
+    <!--End of nav bar beginning of banner-->
+                 
+        <div class="banner">
+         <p>Philippines</p>
+        </div>
+        
+                
+            
+            
+            <aside class="main-side-bar">
+            <h2>Side Bar</h2>
+            </aside>
+            
+            <main>
+                <h1>Top 5 Reasons to Visit the Philippines</h1>
+                <ol>
+                    <h1>Beaches</h1>
+                        <img src="images/beaches.jpg">
+                        <h3> Philippines islands and beaches are ... Heaven. Paradise. Amazing (see my blog post about Palawan).No kidding. I hardly found better beaches in the world than there. 
+
+The queen of all the beaches is probably White Beach in Boracay, constantly rated as one of the Top 10 beaches of the world. I wouldn't say it's the best one, but certainly the most famous one.
+
+If you are into white sandy beaches and turquoise crystal-clear waters, you're in the right country. Philippines is made up of 7,107 islands. It's not hard to find your dream beach or a pristine island over there and having it all for yourself...
+
+</h3>
+                    <h1>Shopping</h1>
+                        <img src="images/malls.jpg">
+                        <h3> When I noticed all the giant shopping malls in Manila, I had a feeling that Filipinos must be crazy about shopping. Later I figured out that shopping is also a way of family gathering for them. Or as one of my Filipina friends says: "They come for the air conditioning."
+
+Anyway,shopping in the Philippines can be quite a worthwhile experience.The country is known by many as a great handicraft center.Manila has fantastic shopping opportunities. There are a lot of places to go and it all depends on what you intend to buy, and how much is your budget. </h3>
+                    <h1>Nature </h1>
+                        <img src="images/mountains.jpg">
+                        <h3> Philippines is home of a diverse range of birds, plants, animals and sea creatures.There are nearly 200 mammal species in the Philippines. The Philippine Tarsier is one of the smallest (and cutest!) species of monkeys in the world.
+
+You will find more than 600 species of birds, over 300 species of reptiles and amphibians and at least 400 coral species.From the giant whale shark to the world's smallest fish (Pandaca pygmea), everything you can dream of is united in the beautiful islands of the Philippines.</h3>
+                    <h1>Food</h1>
+                        <img src="images/food.jpg">
+                        <p> Filipinos love their food and there are a lot of things worth trying! It probably describes it best to say, Filipino food is a mix of Malay, Chinese, Spanish, Japanese and American cuisine. </p>
+                    <h1>Pamper Yourself</h1>
+                            <img src="images/massage.jpg">
+                        <h3> One of the greatest things to do in Philippines is pampering your body with a good massage. Massage places and spas are all over the country, from luxury spas to massages on the beach, you will find them almost everywhere.</h3>
+                    
+                    
+                </ol>
+            </main>
+            
+            <footer>
+                <h4>Helpful links</h4>
+                <ul>
+                    <li><a href="http://www.tourism.gov.ph/pages/default.aspx">Philippine Tourism</a></li>
+                    <li><a href="https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=momondo">Momondo</a></li>
+                    <li><a href="http://www.theflightdeal.com/fil">The Flight Deal</a></li>
+                </ul>
+            </footer>
+        
+    </body>
+    
+    
+    
+    
+    
+</html>

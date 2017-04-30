@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'IM Fell DW Pica', serif;
+    background-color: #b0cbe8;
+}
+.banner {
+    height: 250px;
+    width: 100%;
+    background-image: url(../images/new-yorkmod.jpg);
+    background-size: cover;
+    position: relative;
+    }
+.banner p {
+    color: white;
+    font-size: 30px;
+    font-family: Impact, sans-serif; /*Comment */
+    position: absolute;
+    bottom: 25px;
+    left: 25px;
+}  
+
+/*The above is fine */
+
+.main-nav {
+    list-style: none;
+    background: #ccc;
+    overflow: auto;
+    
+}
+
+.main-nav ul {
+    list-style:none;
+}
+
+
+
+.main-nav ul li {
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.main-nav ul li a {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+}
+.main-nav ul li a:hover, .main-nav li a:active {
+    background-color:lightblue; 
+    font-size: 30px;
+}
+    
+
+.main-side-bar {
+    width: 30%;
+    height: 500px;
+    float: right;
+}
+.main-body{
+    
+    width: 70%;
+    float: left;
+    /*height: 500px;*/
+    margin-bottom: 5px;
+}
+
+.main-body ol li {
+    list-style-type: circle;
+    padding: 10px 15px;
+   
+}
+
+.main-footer{
+    display: auto;
+    padding:30px;
+    height: 50px;
+	clear: both;
+	text-align: center;
+    }        
+
+
+.main-footer ul a{ 
+    left:50px;
+    text-align: center;
+    margin-right:25px;
+}
+    
+    .image-50{
+        width:50%;
+        display: block;
+        margin: auto;
+    }
+    
+    
